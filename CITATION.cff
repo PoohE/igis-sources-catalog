@@ -15,6 +15,7 @@ authors:
     given-names: "Алексей Александрович"
     affiliation: "Институт географии РАН"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22729475
 repository-code: "https://github.com/PoohE/igis-sources-catalog"
 keywords:
   - historical GIS
