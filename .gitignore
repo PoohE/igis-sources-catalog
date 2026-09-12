@@ -1,0 +1,10 @@
+.env
+.env.*
+*_token.txt
+*.key
+*.pem
+.venv/
+__pycache__/
+*.tmp.*
+Thumbs.db
+desktop.ini

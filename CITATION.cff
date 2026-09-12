@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this cataloguing system, please cite it as below."
+title: >-
+  IGIS Sources Catalog: система каталогизации историко-географических
+  источников для построения исторических ГИС
+type: dataset
+version: "1.3"
+date-released: "2026-09-12"
+authors:
+  - family-names: "Пуреховский"
+    given-names: "Андрей Жоржевич"
+    orcid: "https://orcid.org/0000-0002-4531-3516"
+    affiliation: "Институт географии РАН"
+  - family-names: "Алейников"
+    given-names: "Алексей Александрович"
+    affiliation: "Институт географии РАН"
+license: CC-BY-4.0
+repository-code: "https://github.com/PoohE/igis-sources-catalog"
+keywords:
+  - historical GIS
+  - HGIS
+  - cataloguing
+  - metadata
+  - historical maps
+  - archives
+  - analytical passport
+  - Russia
+abstract: >-
+  A cataloguing system for historical-geographical sources (cartographic,
+  textual, serial statistical) held in federal and regional archives and
+  libraries of Russia, designed for building hierarchical historical GIS
+  (guberniya - uezd - volost). Each item is described by 73 fields in four
+  blocks, including the analytical passport of the source; the classification
+  covers 24 source types in three classes (A1-C8) and is harmonised with
+  ISAD(G), MARC 21, Dublin Core and ISO 19115. Supported by the Russian
+  Science Foundation, grant 26-17-00347.
